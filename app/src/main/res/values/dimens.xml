@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--main activity-->
+  <dimen name="price_list_margin_top">4dp</dimen>
+  <dimen name="pricelist_padding_bottom">54dp</dimen>
+  <dimen name="location_button_margin">30dp</dimen>
+  <dimen name="location_button_margin_bottom">2dp</dimen>
+
+  <!--showAlertDialog location dialog-->
+  <dimen name="divider">1dp</dimen>
+  <dimen name="alert_dialog_margin_bottom">40dp</dimen>
+  <dimen name="alert_dialog_margin_top">15dp</dimen>
+
+  <!--showAlertDialog zip dialog-->
+  <dimen name="zip_alert_dialog_margin">30dp</dimen>
+  <dimen name="zip_alert_padding">15dp</dimen>
+
+</resources>

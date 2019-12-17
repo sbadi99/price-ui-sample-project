@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">GoodRx</string>
+  <string name="set_location">Set Location</string>
+  <string name="current_location">Current Location</string>
+  <string name="enter_location">Enter Location</string>
+  <string name="cancel">Cancel</string>
+  <string name="remove_location">Remove Location</string>
+  <string name="location_required_rationale">Location permission is required to provide you drug prices near your area.</string>
+  <string name="ok">OK</string>
+  <string name="error_connection">No Internet connection detected. Please make sure data is enabled in settings and try again.</string>
+  <string name="error_retry">Drug prices not available. Please enter a new location or try again later!</string>
+  <string name="error">Error</string>
+  <string name="enter_zipcode">Enter zip code:</string>
+  <string name="submit">Submit</string>
+</resources>

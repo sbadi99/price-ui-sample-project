@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+  <androidx.appcompat.widget.AppCompatEditText
+      android:id="@+id/enter_zip_code"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:gravity="top"
+      android:hint="@string/enter_zipcode"
+      android:maxLength="10"
+      android:maxLines="1"
+      android:scrollbars="vertical"
+      />
+
+  <androidx.appcompat.widget.AppCompatButton
+      android:id="@+id/zip_code_submit"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:gravity="bottom|center"
+      android:textColor="@color/white"
+      android:backgroundTint="@color/colorPrimary"
+      android:padding="@dimen/zip_alert_padding"
+      android:text="@string/submit"
+      style="@style/AlertDialogText"
+      android:layout_marginStart="@dimen/zip_alert_dialog_margin"
+      android:layout_marginEnd="@dimen/zip_alert_dialog_margin"
+      />
+</androidx.appcompat.widget.LinearLayoutCompat>
