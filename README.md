@@ -6,8 +6,8 @@
 
 * From a architecture standpoint, used the LiveData/ViewModel approach (per Android architectural components) to allow for UI layer to be decoupled from the business layer. 
 
-*Also used RxJava and Retrofit2 on the networking side. Used Google's EasyPermissions library to streamline management of Location permissions.
+Also used RxJava and Retrofit2 on the networking side. Used Google's EasyPermissions library to streamline management of Location permissions.
 
-*Extra's : Used Dagger2 for dependency injection in some areas. Added zip validations. Added progress spinners and some additional error dialogs as needed. Also navigating user to app level permission settings screen when user chooses to remove locations.
+Extra's : Used Dagger2 for dependency injection in some areas. Added zip validations. Added progress spinners and some additional error dialogs as needed. Also navigating user to app level permission settings screen when user chooses to remove locations.
 
 If the team has any questions or need any clarification during the review process let me know and I will be happy to address any queries the team might have.
