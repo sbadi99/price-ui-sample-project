@@ -11,3 +11,6 @@
 Extra's : Used Dagger2 for dependency injection in some areas. Added zip validations. Added progress spinners and some additional error dialogs as needed. Also navigating user to app level permission settings screen when user chooses to remove locations. Added a basic Espresso Instrumentation test as well.
 
 If the team has any questions or need any clarification during the review process let me know and I will be happy to address any queries the team might have.
+
+![Alt text](./device-2019-12-16-223535.png?raw=true "Optional Title")
+
