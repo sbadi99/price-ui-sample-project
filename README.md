@@ -12,11 +12,16 @@ Extra's : Used Dagger2 for dependency injection in some areas. Added zip validat
 
 If the team has any questions or need any clarification during the review process let me know and I will be happy to address any queries the team might have.
 
+
+
 ![Alt text](./device-2019-12-16-223535.png?raw=true "Optional Title")
+
 
 ![Alt text](./device-2019-12-16-224534.png?raw=true "Optional Title")
 
+
 ![Alt text](./device-2019-12-16-224609.png?raw=true "Optional Title")
+
 
 ![Alt text](./device-2019-12-16-224736.png?raw=true "Optional Title")
 
