@@ -62,6 +62,7 @@ class PriceRecyclerViewAdapter
     priceViewHolder.pharmacyName.text = pricesListItems.pharmacyObject?.name
     priceViewHolder.paymentTypeDisplay.text = pricesListItems.typeDisplay
     priceViewHolder.drugPrice.text = pricesListItems.price
+    //test
   }
 
   override fun getItemCount(): Int {
